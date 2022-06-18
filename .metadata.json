@@ -1,0 +1,10 @@
+[
+  {
+    "package": "imola",
+    "oncran": true
+  },
+  {
+    "package": "shiny.pwa",
+    "oncran": true
+  }
+]
