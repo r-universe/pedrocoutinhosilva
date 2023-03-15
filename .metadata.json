@@ -1,5 +1,9 @@
 [
   {
+    "package": "hexFinder",
+    "oncran": true
+  },
+  {
     "package": "imola",
     "oncran": true
   },

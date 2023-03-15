@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hexFinder"]
+	path = hexFinder
+	url = https://github.com/pedrocoutinhosilva/hexfinder
+	shallow = true
+	registered = true
 [submodule "imola"]
 	path = imola
 	url = https://github.com/pedrocoutinhosilva/imola
